@@ -1,6 +1,6 @@
 # AIA house prices
 
-* ***[Source code](iris.ipynb)***
+* ***[Source code](AIA_house_prices.ipynb)***
 
 ### **Result**
 
